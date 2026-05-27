@@ -5,7 +5,15 @@
     "role": "Monteur vidéo · Designer · Motion Designer",
     "bio": "Branleur de merde"
   },
-  "projects": [],
+  "projects": [
+    {
+      "title": "QUELS SONT les DANGERS des IA ?",
+      "type": "youtube",
+      "url": "https://youtu.be/-KkT_6qsuBM?si=QI-rY0E3UhyQibwx",
+      "desc": "",
+      "thumbnail": null
+    }
+  ],
   "youtubers": [],
   "artworks": [],
   "links": [],
