@@ -28,6 +28,12 @@
       "icon": "🎬",
       "url": "https://x.com/Merkure777",
       "color": ""
+    },
+    {
+      "label": "Twitch",
+      "icon": "🎥",
+      "url": "https://www.twitch.tv/idris_oudaifa",
+      "color": ""
     }
   ],
   "theme": "rei",
