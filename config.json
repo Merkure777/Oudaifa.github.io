@@ -7,6 +7,13 @@
   },
   "projects": [
     {
+      "title": "Vidéo 2",
+      "type": "youtube",
+      "url": "https://youtu.be/RyXhVuw__pg?si=m6HY4t0tbJSmDn85",
+      "desc": "",
+      "thumbnail": null
+    },
+    {
       "title": "QUELS SONT les DANGERS des IA ?",
       "type": "youtube",
       "url": "https://youtu.be/-KkT_6qsuBM?si=QI-rY0E3UhyQibwx",
