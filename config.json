@@ -22,7 +22,14 @@
     }
   ],
   "youtubers": [],
-  "artworks": [],
+  "artworks": [
+    {
+      "title": "Xukitree",
+      "category": "illustration",
+      "src": "",
+      "emoji": ""
+    }
+  ],
   "links": [
     {
       "label": "insta",
