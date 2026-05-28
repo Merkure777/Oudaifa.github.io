@@ -22,6 +22,12 @@
       "icon": "📹",
       "url": "https://www.instagram.com/merkure_777/",
       "color": ""
+    },
+    {
+      "label": "X",
+      "icon": "🎬",
+      "url": "https://x.com/Merkure777",
+      "color": ""
     }
   ],
   "theme": "rei",
