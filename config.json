@@ -16,7 +16,14 @@
   ],
   "youtubers": [],
   "artworks": [],
-  "links": [],
+  "links": [
+    {
+      "label": "Insta",
+      "icon": "🫆",
+      "url": "https://www.instagram.com/merkure_777/",
+      "color": "FFA552"
+    }
+  ],
   "theme": "rei",
   "lang": "fr",
   "icons": {
